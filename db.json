@@ -1,0 +1,35 @@
+{
+  "pessoas": [
+    {
+      "nome": "ademilson",
+      "cpf": "160.630.027-07",
+      "sexo": "f",
+      "id": 1
+    },
+    {
+      "nome": "ademilson",
+      "cpf": "596.982.820-33",
+      "sexo": "f",
+      "id": 2
+    },
+    {
+      "nome": "ademilson",
+      "cpf": "596.982.820-33",
+      "sexo": "f",
+      "id": 3
+    },
+    {
+      "nome": "ademilson rodrigues lima junior",
+      "cpf": "596.982.820-33",
+      "sexo": "m",
+      "id": 4
+    },
+    {
+      "nome": "ademilson",
+      "cpf": "160.630.027-07",
+      "sexo": "m",
+      "id": 5
+    }
+  ],
+  "militares": []
+}
